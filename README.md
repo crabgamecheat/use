@@ -2,6 +2,8 @@
 
 FILE PASSWORD: copen
 
+Click on [Code] -> Download Zip to download the file
+
 -- [HOW TO USE] --
 
 Client.dll
